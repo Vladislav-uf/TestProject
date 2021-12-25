@@ -1,2 +1,2 @@
 alias notepad="/c/Program\ Files\ 
-alien
+alien = chujoy
