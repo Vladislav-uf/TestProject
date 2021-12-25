@@ -1,7 +1,6 @@
 alias notepad="/c/Program\ Files\ 
-<<<<<<< HEAD
-alien = chujoy
-=======
-alien =
+alien = pred
 aliens
+alien = aliens
+
 >>>>>>> new-api
