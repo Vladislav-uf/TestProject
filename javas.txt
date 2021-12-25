@@ -1,3 +1,2 @@
 alias notepad="/c/Program\ Files\ 
-alien =
-aliens
+alien = aliens
