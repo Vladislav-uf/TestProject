@@ -1,6 +1,6 @@
 alias notepad="/c/Program\ Files\ 
 alien = pred
-aliens
+aliens = all
 alien = aliens
 
 >>>>>>> new-api
